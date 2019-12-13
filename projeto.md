@@ -9,7 +9,8 @@ Para contribuir com o autor e fortalecer para continuidade de outros trabalhos, 
 
 
 Rodrigo Verly Porto
-CPF: 092113807-58
+
+Cpf: 092113807-58
 
 
 ##### Nubank
@@ -24,7 +25,7 @@ Agência: 2264 Op 001
 Conta Corrente: 22890-7
 
 
-##### Wallets para envio de criptomoedas:
+#### Wallets para envio de criptomoedas:
 
 
 
@@ -44,6 +45,7 @@ bc1qggtcxk78fc87v4mt5pl6hvhmzqc8azqh65r5qc
 3PC72qCQBWgdJ4vJWzojQkXV9NiEUgk7miB
 
 
-###### USDT: 0x52da106B9e982a302507e8017613bb1c186751Af
+###### USDT: 
+0x52da106B9e982a302507e8017613bb1c186751Af
 
 
