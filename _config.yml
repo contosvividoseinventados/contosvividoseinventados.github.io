@@ -2,8 +2,9 @@
 
 # Name of website
 title: Vividos e Inventados
+
 # Short description of your site
-description: A virtual proof that I'm awesome
+description: pagina virtual
 
 # --- Local development options ---
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
@@ -19,10 +20,9 @@ description: A virtual proof that I'm awesome
 
 # List of links in the navigation bar
 navbar-links:
-  Sobre o autor: "aboutme"
-  Donwload do livro: "https://drive.google.com/file/d/1pX3Wzn2t7PFpG2nT_Egb7fHxiJEYNjNO/view?usp=sharing"
-  Como contribuir: "projeto"
-  
+  Sobre mim: "aboutme"
+  Download do livro: "https://drive.google.com/file/d/1pX3Wzn2t7PFpG2nT_Egb7fHxiJEYNjNO/view?usp=sharing"
+  Como contribuir: "projeto" 
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
@@ -49,7 +49,7 @@ footer-link-col: "#404040"
 # Alternatively, the navbar, footer, and page background can be set to use background images
 # instead of colour
 
-navbar-img: "/img/cover_large_1920x300_G_2.png"
+# navbar-img: "/img/cover_large_1920x300_G_2 (1).png"
 # footer-img: "/img/bgimage.png"
 # page-img: "/img/bgimage.png"
 
